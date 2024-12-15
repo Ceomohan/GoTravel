@@ -1,0 +1,6 @@
+export {default as HeroImage} from './traveler.jpg'
+export {default as Luffy} from './homeImage3.webp'
+export {default as Luffy2} from './Luffy2.jpg'
+export {default as hotel} from './hotels.png'
+export {default as restaurant} from './restaurant.jpg'
+export {default as attraction} from './attraction.png'
